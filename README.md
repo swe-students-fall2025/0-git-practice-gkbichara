@@ -13,4 +13,4 @@ I believe this type of article and writing is really as we approach these unchar
 
 
 ## Majo's comment:
-This article offers a deep dive into the rapid evolution of AI tools in software engineering over the past two years, from simple autocomplete enhancements to sophisticated AI coding agents. Birgitta Böckeler’s firsthand experience as a Thoughtworks engineer provides practical insights into how developers can effectively collaborate with AI, navigate its limitations and biases, and leverage emerging workflows. It is essential reading for anyone interested in the intersection of AI and coding.
+This article offers a deep dive into the rapid evolution of AI tools in software engineering over the past two years, from simple autocomplete enhancements to sophisticated AI coding agents. Birgitta Böckeler’s firsthand experience as a Thoughtworks engineer provides practical insights into how developers can effectively collaborate with AI, navigate its limitations and biases, and leverage emerging workflows. It is essential reading for anyone interested in the intersection of AI and coding. Nice.
